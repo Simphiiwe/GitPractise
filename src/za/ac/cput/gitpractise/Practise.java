@@ -6,7 +6,7 @@
 package za.ac.cput.gitpractise;
 
 /**
- *
+ *Adding random comment
  * @author simph
  */
 public class Practise {
