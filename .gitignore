@@ -1,1 +1,6 @@
+# Neabeans files to be ignored by git
 
+# Netbeans specifics
+/nbproject/
+build.xml
+manifest.mf
